@@ -1,5 +1,7 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
+  "release_date": "2026-11-12",
+  "changelog": "Bản cập nhật tối ưu hóa hiệu năng, cập nhật tính năng tự động cắt khung và sửa lỗi tải video YouTube.",
   "download_url": "https://raw.githubusercontent.com/hoangq122203-cell/JL_Tool_updates/main/JL_Tool_Cap_Nhat.zip",
-  "changelog": "Tối ưu hóa siêu mượt: loại bỏ hoàn toàn hiện tượng giật lag định kỳ, nạp cache RAM 32MB cho Database và kiểm tra đám mây bất đồng bộ"
+  "mandatory": false
 }
