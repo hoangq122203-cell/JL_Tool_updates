@@ -1,7 +1,7 @@
 {
-  "version": "2.4.12",
+  "version": "2.4.13",
   "release_date": "2026-11-18",
-  "changelog": "Sửa triệt để lỗi kết nối Proxy SOCKS5 (ERR_TUNNEL_CONNECTION_FAILED), nâng cấp bộ Local Proxy Bridge và tối ưu chờ đăng video 99%.",
+  "changelog": "Sửa triệt để lỗi kết nối Proxy SOCKS5 (ERR_TUNNEL_CONNECTION_FAILED), tự động nén video >50MB và tối ưu chờ quét bản quyền 99%.",
   "download_url": "https://raw.githubusercontent.com/hoangq122203-cell/JL_Tool_updates/main/JL_Tool_Cap_Nhat.zip",
   "mandatory": false
 }
