@@ -1,7 +1,7 @@
 {
-  "version": "2.4.13",
-  "release_date": "2026-11-18",
-  "changelog": "Sửa triệt để lỗi kết nối Proxy SOCKS5 (ERR_TUNNEL_CONNECTION_FAILED), tự động nén video >50MB và tối ưu chờ quét bản quyền 99%.",
+  "version": "2.4.14",
+  "release_date": "2026-11-19",
+  "changelog": "Sửa triệt để lỗi tự động cắt video Series (add_processed_youtube_id), nâng cấp đồng bộ DatabaseManager và tối ưu tốc độ cắt.",
   "download_url": "https://raw.githubusercontent.com/hoangq122203-cell/JL_Tool_updates/main/JL_Tool_Cap_Nhat.zip",
   "mandatory": false
 }
